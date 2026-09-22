@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ahmed Farag
 
-<!--
-**AhmedFaraag010101/AhmedFaraag010101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer
 
-Here are some ideas to get you started:
+I build responsive web applications, database-driven systems, APIs, and interactive digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Full-Stack Web Developer
+- Focused on building real-world web applications
+- Experienced in PHP, MySQL, JavaScript, HTML and CSS
+- Interested in APIs, webhooks, automation and scalable backend systems
+- Building and maintaining production websites and web applications
+
+## Tech Stack
+
+### Frontend
+HTML5 • CSS3 • JavaScript • Bootstrap • jQuery • AJAX
+
+### Backend
+PHP • MySQL • REST APIs • Webhooks
+
+### Tools
+Git • GitHub • VS Code
+
+## Featured Projects
+
+### WhatsApp Business Automation
+A PHP/MySQL system integrated with the official WhatsApp Business Cloud API for handling customer messages and automated responses.
+
+### DINARIQD
+E-commerce platform for vintage clothing, collectibles, retro products and classic accessories.
+
+### Mansh Social Media App
+A database-driven social media web application with user interactions and dynamic content.
+
+### Libya Medical Center
+Responsive website developed for a medical center with multiple departments and services.
+
+## What I Build
+
+- Full-Stack Web Applications
+- Business Websites
+- E-commerce Platforms
+- REST APIs
+- Admin Dashboards
+- Database-Driven Systems
+- API Integrations
+- Interactive Web Experiences
+
+## Contact
+
+Portfolio: https://ahmedfarag.is-best.net
